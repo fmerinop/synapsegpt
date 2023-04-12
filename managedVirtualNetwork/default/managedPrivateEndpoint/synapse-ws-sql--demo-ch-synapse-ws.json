@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--demo-ch-synapse-ws",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/120788fa-a67e-4796-9f08-c0d304a5d504/resourceGroups/rg-ch-synapsegpt-openai-demo/providers/Microsoft.Synapse/workspaces/demo-ch-synapse-ws",
+		"groupId": "sql",
+		"fqdns": [
+			"demo-ch-synapse-ws.4679750f-ce58-40ed-bf2f-7185253b6993.sql.azuresynapse.net"
+		]
+	}
+}
